@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=BloodWod-513&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Ilya's github stats](https://github-readme-stats.vercel.app/api?username=BloodWod-513&show_icons=true&theme=dracula&include_all_commits=true)
+![Ilya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodWod-513&layout=compact&theme=dracula)
 <!--
 **BloodWod-513/BloodWod-513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
